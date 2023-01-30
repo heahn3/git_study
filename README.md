@@ -1,2 +1,2 @@
 ahe_hi_2
-add detail
+add detail_2
